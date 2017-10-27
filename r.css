@@ -2,7 +2,7 @@
 	width: 100px;
 }
 .bg-color-dark {
-	background:#DCDCDC;
+	background:#666666;
 }
 .bg-color-tap {
 	background:#FFE4B5;
@@ -12,14 +12,34 @@
 
 }
 .bg-color-tap3{
-	background:#1E90FF;
+	background:#FFFF00;
 }
 .bg-color-tap4{
 	background: #9932CC;
 }
 .bg-Lavender{
-	background: #FFF0F5;
+	background: #DCDCDC;
 }
 .bg-WhiteSmoke{
-	background: #F5F5F5;
+	background: #babfc3;
+}
+.bg-Yellow{
+	background: #FFFF00;
+}
+.bg-Chocolate{
+	background: #D2691E;
+
+}
+.col-lg-9{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.col-lg-3{
+	padding-top: 20px;
+}
+.bg-SlateBlue{
+	background: #6A5ACD;
+}
+.pt-5{
+	padding-bottom: 30px;
 }
